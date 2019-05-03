@@ -1,4 +1,7 @@
+// questo è un commento; 
+
 import("stdfaust.lib");
+
 // gli operatori matematici + - / *
 // il carattere due punti : indica una connessione seriale 
 // il carattere vitgola , indica una connessione parallela
